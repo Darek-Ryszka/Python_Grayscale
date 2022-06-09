@@ -5,7 +5,7 @@ Python Grayscale Program
 This project converting color image to grayscale image
 
 ## Technologies
-* Pytohon version: 3.8
+* Python version: 3.8
 * PyCharm 2022.1
 * PIL library
 * glob library
